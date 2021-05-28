@@ -1,6 +1,10 @@
 # agriculture_app
 
-A new Flutter application.
+![Alt text](login1.jpg?raw=true "Login Screen")
+![Alt text](home1.jpg?raw=true "Home Screen")
+![Alt text](drawer1.jpg?raw=true "Drawer Screen")
+![Alt text](profile1.jpg?raw=true "Profile Screen")
+![Alt text](search1.jpg?raw=true "Search Screen")
 
 ## Getting Started
 
